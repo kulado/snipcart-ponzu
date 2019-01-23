@@ -1,0 +1,30 @@
+baseurl = "https://shopforce.netlify.com/"
+DefaultContentLanguage = "en"
+title = "GoCart Global Store"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = false
+pygmentsCodeFences = false
+pygmentsCodefencesGuessSyntax = false
+
+[Params]
+  subtitle = "Prepare to deal with the tide!"
+  logo = "img/flood.jpg"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = false
+  useHLJS = false
+  socialShare = false
+  snipcartAPIKey = "Njk5ZjgzOWYtOGYyOS00ZmM0LTlkODItNGMxMjk4YWRiYTgwNjM2NzE2NzkyNTU0MTg4NDUw"
+
+[Author]
+  name = "GoCart"
+  website = "https://shopforce.netlify.com"
+  email = "eric@kulado.com"
+  facebook = "kuladoinc"
+  github = "kulado/snipcart-ponzu"
+  twitter = "kuladoinc"
